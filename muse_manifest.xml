@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="charusiitg.github.io" resolutions="1x" timestamp="1527994319801">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="charusiitg.github.io" resolutions="1x" timestamp="1527994900189">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="ssa.css" crc="342890540" ref="ssa"/>
-    <file name="index.css" crc="220751858" ref="index"/>
+    <file name="index.css" crc="227569744" ref="index"/>
     <file name="your-space.css" crc="113878295" ref="your-space"/>
     <file name="alzchi-smart-watch.css" crc="3980818244" ref="alzchi-smart-watch"/>
     <file name="irctc.css" crc="3949137155" ref="irctc"/>
@@ -149,7 +149,7 @@
       <caption webpage="your-space" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="249520938" seo="true" mt="1527994269630" redirect="true"/>
+  <file name="index.html" crc="202098109" seo="true" mt="1527994875574" redirect="true"/>
   <file name="ssa.html" crc="146342652" seo="true" mt="1527975465848" redirect="true"/>
   <file name="irctc.html" crc="50849528" seo="true" mt="1527975485593" redirect="true"/>
   <file name="alzchi-smart-watch.html" crc="3952512133" seo="true" mt="1527975495932" redirect="true"/>

@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="charusiitg.github.io" resolutions="1x" timestamp="1528040086638">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="charusiitg.github.io" resolutions="1x" timestamp="1528040858832">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="ssa.css" crc="342890540" ref="ssa"/>
-    <file name="index.css" crc="4054808046" ref="index"/>
-    <file name="your-space.css" crc="484810354" ref="your-space"/>
-    <file name="alzchi-smart-watch.css" crc="4262503539" ref="alzchi-smart-watch"/>
-    <file name="irctc.css" crc="3949137155" ref="irctc"/>
+    <file name="index.css" crc="224582316" ref="index"/>
+    <file name="your-space.css" crc="168305674" ref="your-space"/>
+    <file name="alzchi-smart-watch.css" crc="293274598" ref="alzchi-smart-watch"/>
+    <file name="irctc.css" crc="3764170672" ref="irctc"/>
   </folder>
   <folder name="assets">
     <file name="thumb-02.png" crc="219178586" seo="true" mt="1527590562000"/>
@@ -84,9 +84,6 @@
     </file>
     <file name="ssa portfolio-15.jpg" crc="4098324723" seo="true" ref="ssa">
       <caption webpage="ssa" alt=""/>
-    </file>
-    <file name="thumb-03.png" crc="4220556615" seo="true" ref="irctc">
-      <caption webpage="irctc" alt=""/>
     </file>
     <file name="gola-crop-u593.png" crc="4188242128" seo="true" ref="irctc">
       <caption webpage="irctc" alt=""/>
@@ -219,9 +216,9 @@
       <caption webpage="your-space" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4254113928" seo="true" mt="1528039982232" redirect="true"/>
-  <file name="ssa.html" crc="3814328312" seo="true" mt="1528013819002" redirect="true"/>
-  <file name="irctc.html" crc="100830073" seo="true" mt="1528013811351" redirect="true"/>
-  <file name="alzchi-smart-watch.html" crc="512933494" seo="true" mt="1528013799219" redirect="true"/>
-  <file name="your-space.html" crc="3822941781" seo="true" mt="1528013888929" redirect="true"/>
+  <file name="index.html" crc="432585532" seo="true" mt="1528040446682" redirect="true"/>
+  <file name="ssa.html" crc="3814328312" seo="true" mt="1528040664963" redirect="true"/>
+  <file name="irctc.html" crc="3916750245" seo="true" mt="1528040648031" redirect="true"/>
+  <file name="alzchi-smart-watch.html" crc="503478781" seo="true" mt="1528040823875" redirect="true"/>
+  <file name="your-space.html" crc="4214824875" seo="true" mt="1528040782580" redirect="true"/>
 </manifest>

@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="charusiitg.github.io" resolutions="1x" timestamp="1527994900189">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="charusiitg.github.io" resolutions="1x" timestamp="1528040086638">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="ssa.css" crc="342890540" ref="ssa"/>
-    <file name="index.css" crc="227569744" ref="index"/>
-    <file name="your-space.css" crc="113878295" ref="your-space"/>
-    <file name="alzchi-smart-watch.css" crc="3980818244" ref="alzchi-smart-watch"/>
+    <file name="index.css" crc="4054808046" ref="index"/>
+    <file name="your-space.css" crc="484810354" ref="your-space"/>
+    <file name="alzchi-smart-watch.css" crc="4262503539" ref="alzchi-smart-watch"/>
     <file name="irctc.css" crc="3949137155" ref="irctc"/>
   </folder>
   <folder name="assets">
@@ -24,9 +24,6 @@
     <file name="require.js" crc="7928878" ref="index:ssa:irctc:alzchi-smart-watch:your-space"/>
   </folder>
   <folder name="images">
-    <file name="2-crop-u1616.jpg" crc="285104739" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="u132-4.png" crc="3852520105" ref="index"/>
     <file name="u1401-4.png" crc="507442833" ref="index"/>
     <file name="untitled-1-crop-u1970.png" crc="3830401272" seo="true" ref="index">
@@ -34,9 +31,6 @@
     </file>
     <file name="u1988-6.png" crc="174010795" ref="index"/>
     <file name="u2005-4.png" crc="3868128451" ref="index"/>
-    <file name="preview-crop-u2062.jpg" crc="264254951" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="preview-crop-u2028.jpg" crc="241744471" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -46,7 +40,7 @@
     <file name="preview-crop-u2055.jpg" crc="461676278" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="preview-crop-u2041.jpg" crc="368580969" seo="true" ref="index">
+    <file name="preview-crop-u2041.jpg" crc="4294911529" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="gola-crop-u1196.png" crc="4188242128" seo="true" ref="ssa">
@@ -148,10 +142,86 @@
     <file name="gola-crop-u1313.png" crc="4188242128" seo="true" ref="your-space">
       <caption webpage="your-space" alt=""/>
     </file>
+    <file name="2-crop-u2886.jpg" crc="285104739" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2638-4.png" crc="3917299319" ref="index"/>
+    <file name="0.jpg" crc="4129956651" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="interaction_one_logo.jpg" crc="4239499211" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="netlink-software-squarelogo-1429534447904-crop-u2663.jpg" crc="494141768" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ozchi portfolio-01.jpg" crc="304486762" seo="true" ref="alzchi-smart-watch">
+      <caption webpage="alzchi-smart-watch" alt=""/>
+    </file>
+    <file name="ozchi portfolio-02.jpg" crc="195985232" seo="true" ref="alzchi-smart-watch">
+      <caption webpage="alzchi-smart-watch" alt=""/>
+    </file>
+    <file name="ozchi portfolio-03.jpg" crc="157246455" seo="true" ref="alzchi-smart-watch">
+      <caption webpage="alzchi-smart-watch" alt=""/>
+    </file>
+    <file name="ozchi portfolio-04.jpg" crc="54389345" seo="true" ref="alzchi-smart-watch">
+      <caption webpage="alzchi-smart-watch" alt=""/>
+    </file>
+    <file name="ozchi portfolio-05.jpg" crc="4238955536" seo="true" ref="alzchi-smart-watch">
+      <caption webpage="alzchi-smart-watch" alt=""/>
+    </file>
+    <file name="ozchi portfolio-06.jpg" crc="142796205" seo="true" ref="alzchi-smart-watch">
+      <caption webpage="alzchi-smart-watch" alt=""/>
+    </file>
+    <file name="ozchi portfolio-07.jpg" crc="256715980" seo="true" ref="alzchi-smart-watch">
+      <caption webpage="alzchi-smart-watch" alt=""/>
+    </file>
+    <file name="ozchi portfolio-08.jpg" crc="495360194" seo="true" ref="alzchi-smart-watch">
+      <caption webpage="alzchi-smart-watch" alt=""/>
+    </file>
+    <file name="ozchi portfolio-09.jpg" crc="4161982503" seo="true" ref="alzchi-smart-watch">
+      <caption webpage="alzchi-smart-watch" alt=""/>
+    </file>
+    <file name="ozchi portfolio-10.jpg" crc="432101563" seo="true" ref="alzchi-smart-watch">
+      <caption webpage="alzchi-smart-watch" alt=""/>
+    </file>
+    <file name="ozchi portfolio-11.jpg" crc="290125072" seo="true" ref="alzchi-smart-watch">
+      <caption webpage="alzchi-smart-watch" alt=""/>
+    </file>
+    <file name="ozchi portfolio-12.jpg" crc="4224258135" seo="true" ref="alzchi-smart-watch">
+      <caption webpage="alzchi-smart-watch" alt=""/>
+    </file>
+    <file name="your space-01.jpg" crc="96610331" seo="true" ref="your-space">
+      <caption webpage="your-space" alt=""/>
+    </file>
+    <file name="your space-03.jpg" crc="452500121" seo="true" ref="your-space">
+      <caption webpage="your-space" alt=""/>
+    </file>
+    <file name="your space-06.jpg" crc="4105492946" seo="true" ref="your-space">
+      <caption webpage="your-space" alt=""/>
+    </file>
+    <file name="your space-04-crop-u2258.jpg" crc="4055255273" seo="true" ref="your-space">
+      <caption webpage="your-space" alt=""/>
+    </file>
+    <file name="your space-07-crop-u2268.jpg" crc="532390447" seo="true" ref="your-space">
+      <caption webpage="your-space" alt=""/>
+    </file>
+    <file name="your space-05.jpg" crc="4218420089" seo="true" ref="your-space">
+      <caption webpage="your-space" alt=""/>
+    </file>
+    <file name="your space-11.jpg" crc="51562637" seo="true" ref="your-space">
+      <caption webpage="your-space" alt=""/>
+    </file>
+    <file name="your space-09-crop-u2298.jpg" crc="3940180665" seo="true" ref="your-space">
+      <caption webpage="your-space" alt=""/>
+    </file>
+    <file name="your space-08.jpg" crc="4216844048" seo="true" ref="your-space">
+      <caption webpage="your-space" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="202098109" seo="true" mt="1527994875574" redirect="true"/>
-  <file name="ssa.html" crc="146342652" seo="true" mt="1527975465848" redirect="true"/>
-  <file name="irctc.html" crc="50849528" seo="true" mt="1527975485593" redirect="true"/>
-  <file name="alzchi-smart-watch.html" crc="3952512133" seo="true" mt="1527975495932" redirect="true"/>
-  <file name="your-space.html" crc="4149069844" seo="true" mt="1527975510607" redirect="true"/>
+  <file name="index.html" crc="4254113928" seo="true" mt="1528039982232" redirect="true"/>
+  <file name="ssa.html" crc="3814328312" seo="true" mt="1528013819002" redirect="true"/>
+  <file name="irctc.html" crc="100830073" seo="true" mt="1528013811351" redirect="true"/>
+  <file name="alzchi-smart-watch.html" crc="512933494" seo="true" mt="1528013799219" redirect="true"/>
+  <file name="your-space.html" crc="3822941781" seo="true" mt="1528013888929" redirect="true"/>
 </manifest>
